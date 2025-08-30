@@ -101,14 +101,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to your branch (`git push origin feature/your-feature`)
 5. Open a pull request
 
-
-
-## License
-
-Distributed under the [MIT License](LICENSE) (or specify another license if applicable).
-
-
-
 ## Contact
 
 Created by **Jaimin Acharya**.
